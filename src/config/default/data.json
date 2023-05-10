@@ -106,7 +106,7 @@
                                  "Coordinaciones_Territoriales_OPISU":{"new_title": "Coordinaciones Territoriales OPISU","new_abstract": "Capa de generación propia."},
                                  "barrios_intervencion_opisu_may_2023_v1":{"new_title": "Barrios Intervención OPISU - Mayo 2023","new_abstract": "Capa de generación propia."},
                                  "40 AMBA - Deficit Urbano Habitacional":{"new_title": "Deficit Urbano Habitacional","new_abstract": "Capa de generación propia."},
-                                 "partidos_intervencion_opisu_may_202":{"new_title": "Partidos de Intervención OPISU - Mayo 2023","new_abstract": "Capa de generación propia."},"Nisu":{"new_title": "NISU","new_abstract": "Capa de generación propia."},"situación_dominial_barrios_opisu":{"new_title": "Situación Dominial -Barrios OPISU-","new_abstract": "Capa de generación propia."}}
+                                 "partidos_intervencion_opisu_may_2023":{"new_title": "Partidos de Intervención OPISU - Mayo 2023","new_abstract": "Capa de generación propia."},"Nisu":{"new_title": "NISU","new_abstract": "Capa de generación propia."},"situación_dominial_barrios_opisu":{"new_title": "Situación Dominial -Barrios OPISU-","new_abstract": "Capa de generación propia."}}
                                   },
         {
             "type": "wmslayer",
