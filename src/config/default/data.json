@@ -144,6 +144,24 @@
                          "tipo_domicilio_por_mza_LM_2022":{"new_title": "17M, 17MB, SP y PH - Tipo de domicilio (2022)"}
                         }
                     },
+    {
+            "type": "wmslayer",
+            "peso": 10,
+            "nombre": "Programa de Integración Comercial",
+            "short_abstract": "Relevamiento de comercios DPIP-OPISU 2022",
+            "class": "",
+            "seccion": "pic2022",
+            "servicio": "wms",
+            "version": "1.3.0",
+            "host": "https://geoserver.opisu.gba.gob.ar/geoserver/IDEOPISU",
+            "allowed_layers": ["puntos_integracion_comercial_gral_pueyrredon","puntos_integracion_comercial_la_matanza","puntos_integracion_comercial_lomas",
+                      "puntos_integracion_comercial_moron","puntos_integracion_comercial_quilmes"],
+            "customize_layers":{"puntos_integracion_comercial_gral_pueyrredon":{"new_title": "Relevamiento de comercios - General Pueyrredón"},"puntos_integracion_comercial_la_matanza":{"new_title": "Relevamiento de comercios - La Matanza"},
+                       "puntos_integracion_comercial_lomas":{"new_title": "Relevamiento de comercios - Lomas de Zamora"},
+                        "puntos_integracion_comercial_moron":{"new_title":"Relevamiento de comercios - Morón"},
+                        "puntos_integracion_comercial_quilmes":{"new_title": "Relevamiento de comercios - Quilmes"}
+                        }
+                    },
          {
             "type": "wmslayer",
             "peso": 10,
