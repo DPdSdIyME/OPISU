@@ -158,7 +158,7 @@
             "customize_layers":{"puntos_integracion_comercial_gral_pueyrredon":{"new_title": "Relevamiento de comercios - General Pueyrredón"},"puntos_integracion_comercial_la_matanza":{"new_title": "Relevamiento de comercios - La Matanza"},
                        "puntos_integracion_comercial_lomas":{"new_title": "Relevamiento de comercios - Lomas de Zamora"},
                         "puntos_integracion_comercial_moron":{"new_title":"Relevamiento de comercios - Morón"},
-                        "puntos_integracion_comercial_quilmes":{"new_title": "Relevamiento de comercios - Quilmes"}
+                        "puntos_integracion_comercial_quilmes":{"new_title": "Relevamiento de comercios - Quilmes"},
                         "programa_comercio_seguro_LDZ_Quilmes_Moron_LM_MDP":{"new_title": "Programa Comercio Seguro - General Pueyrredón, La Matanza, Lomas de Zamora, Morón, Quilmes"},
                         "programa_marca_propia_LDZ_Quilmes_LM":{"new_title": "Programa Marca Propia - La Matanza, Lomas de Zamora, Quilmes"}
                         }
