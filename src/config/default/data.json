@@ -135,7 +135,7 @@
             "allowed_layers": ["obras_punto_final_sep_2023","obras_linea_final_sep_2023","obras_poligono_final_sep_2023"],
             "customize_layers": {"obras_punto_final_sep_2023":{"new_title": "Obras punto","new_abstract": "Capa de generación propia."},
                                  "obras_linea_final_sep_2023":{"new_title": "Obras línea","new_abstract": "Capa de generación propia."},
-                                 "obras_poligono_final_sep_2023":{"new_title": "Obras poligono","new_abstract": "Capa de generación propia."},
+                                 "obras_poligono_final_sep_2023":{"new_title": "Obras poligono","new_abstract": "Capa de generación propia."}}
         },
          {
             "type": "wmslayer",
