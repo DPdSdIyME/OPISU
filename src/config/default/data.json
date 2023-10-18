@@ -132,10 +132,10 @@
             "servicio": "wms",
             "version": "1.3.0",
             "host": "https://geoserver.opisu.gba.gob.ar/geoserver/IDEOPISU",
-            "allowed_layers": ["obras_punto_final_sep_2023","obras_linea_final_sep_2023","obras_poligono_final_sep_2023"],
-            "customize_layers": {"obras_punto_final_sep_2023":{"new_title": "Obras punto","new_abstract": "Capa de generación propia."},
-                                 "obras_linea_final_sep_2023":{"new_title": "Obras línea","new_abstract": "Capa de generación propia."},
-                                 "obras_poligono_final_sep_2023":{"new_title": "Obras poligono","new_abstract": "Capa de generación propia."}}
+            "allowed_layers": ["obras_punto_final_oct_2023_ide","obras_linea_final_oct_2023_ide","obras_poligono_final_oct_2023_ide"],
+            "customize_layers": {"obras_punto_final_oct_2023_ide":{"new_title": "Obras punto","new_abstract": "Capa de generación propia."},
+                                 "obras_linea_final_oct_2023_ide":{"new_title": "Obras línea","new_abstract": "Capa de generación propia."},
+                                 "obras_poligono_final_oct_2023_ide":{"new_title": "Obras poligono","new_abstract": "Capa de generación propia."}}
         },
          {
             "type": "wmslayer",
