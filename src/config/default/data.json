@@ -126,16 +126,16 @@
             "type": "wmslayer",
             "peso": 10,
             "nombre": "Obras e intervenciones OPISU",
-            "short_abstract": "Obras, programas y proyectos OPISU (Septiembre 2023) ",
+            "short_abstract": "Obras, programas y proyectos OPISU (Octubre 2023) ",
             "class": "",
             "seccion": "obras",
             "servicio": "wms",
             "version": "1.3.0",
             "host": "https://geoserver.opisu.gba.gob.ar/geoserver/IDEOPISU",
-            "allowed_layers": ["obras_punto_final_oct_2023_ide","obras_linea_final_oct_2023_ide","obras_poligono_final_oct_2023_ide"],
-            "customize_layers": {"obras_punto_final_oct_2023_ide":{"new_title": "Obras punto","new_abstract": "Capa de generación propia."},
-                                 "obras_linea_final_oct_2023_ide":{"new_title": "Obras línea","new_abstract": "Capa de generación propia."},
-                                 "obras_poligono_final_oct_2023_ide":{"new_title": "Obras poligono","new_abstract": "Capa de generación propia."}}
+            "allowed_layers": ["obras_punto_final_nov_2023_ide","obras_linea_final_nov_2023_ide","obras_poligono_final_nov_2023_ide"],
+            "customize_layers": {"obras_punto_final_nov_2023_ide":{"new_title": "Obras punto","new_abstract": "Capa de generación propia."},
+                                 "obras_linea_final_nov_2023_ide":{"new_title": "Obras línea","new_abstract": "Capa de generación propia."},
+                                 "obras_poligono_final_nov_2023_ide":{"new_title": "Obras poligono","new_abstract": "Capa de generación propia."}}
         },
          {
             "type": "wmslayer",
