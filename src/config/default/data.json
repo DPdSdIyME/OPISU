@@ -112,15 +112,15 @@
         {
             "type": "wmslayer",
             "peso": 10,
-            "nombre": "Datos RENABAP PBA 2022",
-            "short_abstract": "Estimaciones demográficas en base a RENABAP PBA (Julio 2022)",
+            "nombre": "Datos RENABAP PBA 2023",
+            "short_abstract": "Estimaciones demográficas en base a RENABAP PBA (Diciembre 2023)",
             "class": "",
             "seccion": "renabap",
             "servicio": "wms",
             "version": "1.3.0",
             "host": "https://geoserver.opisu.gba.gob.ar/geoserver/IDEOPISU",
-            "allowed_layers": ["1933_barrios_renabap_estimaciones_poblaciones"],
-            "customize_layers":{"1933_barrios_renabap_estimaciones_poblaciones":{"new_title": "Barrios Populares de la PBA inscriptos en el RENABAP (13 Julio 2022)"}}
+            "allowed_layers": ["2065_barrios_renabap_estimaciones_poblaciones"],
+            "customize_layers":{"2065_barrios_renabap_estimaciones_poblaciones":{"new_title": "Barrios Populares de la PBA inscriptos en el RENABAP (5 Diciembre 2023)"}}
         },
      {
             "type": "wmslayer",
