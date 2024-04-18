@@ -112,6 +112,19 @@
         {
             "type": "wmslayer",
             "peso": 10,
+            "nombre": "Total de BP en la PBA (2023)",
+            "short_abstract": "Estimaciones demográficas en base a RENABAP y RPPVAP (2023)",
+            "class": "",
+            "seccion": "renabap",
+            "servicio": "wms",
+            "version": "1.3.0",
+            "host": "https://geoserver.opisu.gba.gob.ar/geoserver/IDEOPISU",
+            "allowed_layers": ["2327_estimaciones_rppvap_renabap_23_ide"],
+            "customize_layers":{"2327_estimaciones_rppvap_renabap_23_ide":{"new_title": "2327 BP identificados por el RENABAP y el RPPVAP en la PBA (2023)"}}
+        },
+    {
+            "type": "wmslayer",
+            "peso": 10,
             "nombre": "Datos RENABAP PBA 2023",
             "short_abstract": "Estimaciones demográficas en base a RENABAP PBA (Diciembre 2023)",
             "class": "",
