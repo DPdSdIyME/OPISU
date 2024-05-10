@@ -101,10 +101,10 @@
             "servicio": "wms",
             "version": "1.3.0",
             "host": "https://geoserver.opisu.gba.gob.ar/geoserver/IDEOPISU",
-            "allowed_layers": ["Precios_entorno_Itati_2020","Coordinaciones_Territoriales_OPISU","barrios_intervencion_opisu_abr_2024","40 AMBA - Deficit Urbano Habitacional","Nisu","situación_dominial_barrios_opisu","partidos_intervencion_opisu_abr_2024","Secciones_Electorales_PBA"],
+            "allowed_layers": ["Precios_entorno_Itati_2020","Coordinaciones_Territoriales_OPISU","barrios_intervencion_opisu_may_2024","40 AMBA - Deficit Urbano Habitacional","Nisu","situación_dominial_barrios_opisu","partidos_intervencion_opisu_abr_2024","Secciones_Electorales_PBA"],
             "customize_layers": {"Precios_entorno_Itati_2020":{"new_title": "Relevamiento mercado inmobiliario Itatí ","new_abstract": "Capa de generación propia."},
                                  "Coordinaciones_Territoriales_OPISU":{"new_title": "Coordinaciones Territoriales OPISU","new_abstract": "Capa de generación propia."},
-                                 "barrios_intervencion_opisu_abr_2024":{"new_title": "Barrios de Intervención OPISU - Abril 2024","new_abstract": "193 barrios de intervención"},
+                                 "barrios_intervencion_opisu_may_2024":{"new_title": "Barrios de Intervención OPISU - Mayo 2024","new_abstract": "194 barrios de intervención"},
                                  "40 AMBA - Deficit Urbano Habitacional":{"new_title": "Deficit Urbano Habitacional","new_abstract": "Capa de generación propia."},
                                  "Secciones_Electorales_PBA":{"new_title": "Secciones Electorales - PBA ","new_abstract": "Capa de generación propia."}, 
                                  "partidos_intervencion_opisu_abr_2024":{"new_title": "Partidos de Intervención OPISU - Abril 2024","new_abstract": "Capa de generación propia."},"Nisu":{"new_title": "NISU","new_abstract": "Capa de generación propia."},"situación_dominial_barrios_opisu":{"new_title": "Situación Dominial -Barrios OPISU-","new_abstract": "Capa de generación propia."}}
