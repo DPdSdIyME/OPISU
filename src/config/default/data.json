@@ -104,7 +104,7 @@
             "allowed_layers": ["Precios_entorno_Itati_2020","Coordinaciones_Territoriales_OPISU","barrios_intervencion_opisu_dic_2024_v2","40 AMBA - Deficit Urbano Habitacional","Nisu","situación_dominial_barrios_opisu","partidos_intervencion_opisu_dic_2024_v2","Secciones_Electorales_PBA"],
             "customize_layers": {"Precios_entorno_Itati_2020":{"new_title": "Relevamiento mercado inmobiliario Itatí ","new_abstract": "Capa de generación propia."},
                                  "Coordinaciones_territoriales_OPISU_2025":{"new_title": "Coordinaciones Territoriales OPISU","new_abstract": "Capa de generación propia."},
-                                 "barrios_intervencion_opisu_abr_2025":{"new_title": "Barrios de Intervención OPISU - Abril 2025","new_abstract": "240 barrios de intervención"},
+                                 "barrios_intervencion_opisu_abr_2025_v2":{"new_title": "Barrios de Intervención OPISU - Abril 2025","new_abstract": "241 barrios de intervención"},
                                  "40 AMBA - Deficit Urbano Habitacional":{"new_title": "Deficit Urbano Habitacional","new_abstract": "Capa de generación propia."},
                                  "Secciones_Electorales_PBA":{"new_title": "Secciones Electorales - PBA ","new_abstract": "Capa de generación propia."}, 
                                  "partidos_intervencion_opisu_dic_2024_v2":{"new_title": "Partidos de Intervención OPISU - Diciembre 2024","new_abstract": "63 partidos de intervención"},"indice_nisu_2020_opisu":{"new_title": "NISU","new_abstract": "Capa de generación propia."},"situación_dominial_barrios_opisu":{"new_title": "Situación Dominial -Barrios OPISU-","new_abstract": "Capa de generación propia."}}
